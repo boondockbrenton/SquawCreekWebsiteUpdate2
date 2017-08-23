@@ -1,0 +1,6 @@
+C:\SquawCreekWebSite\SquawCreekTest\bin\Debug\SquawCreekTest.dll
+C:\SquawCreekWebSite\SquawCreekTest\bin\Debug\SquawCreekTest.pdb
+C:\SquawCreekWebSite\SquawCreekTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SquawCreekWebSite\SquawCreekTest\obj\Debug\SquawCreekWebSiteTest.csprojResolveAssemblyReference.cache
+C:\SquawCreekWebSite\SquawCreekTest\obj\Debug\SquawCreekTest.dll
+C:\SquawCreekWebSite\SquawCreekTest\obj\Debug\SquawCreekTest.pdb
